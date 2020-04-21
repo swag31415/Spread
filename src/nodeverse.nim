@@ -2,6 +2,7 @@
 
 type
   Node* = object
+    id*: string
     x*, y*: int
 
 type
