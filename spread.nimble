@@ -1,6 +1,6 @@
 ## Package
 
-version       = "0.1"
+version       = "1.0"
 author        = "swag31415"
 description   = "Models the spread of things in a 2d plane"
 license       = "MIT"
